@@ -655,4 +655,5 @@ class NeuralGenerator(object):
 
 if __name__ == "__main__":
     generator = NeuralGenerator()
+    print("Hello world")
     generator.run()
